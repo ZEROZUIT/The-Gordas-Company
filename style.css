@@ -77,8 +77,8 @@ height: 6rem;
     width: 75%;
     height: 0mm;
     position: relative; 
-    margin-left: 20rem;
-    margin-top: 0rem; 
+    padding-left: 20rem;
+    padding-top: 0rem; 
     align-items: center;
 }
 
